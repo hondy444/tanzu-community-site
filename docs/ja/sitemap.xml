@@ -2,198 +2,198 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/archives/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hondy444.gihub.io/tanzu-community-site/en/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hondy444.gihub.io/tanzu-community-site/pt/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/"
                 />
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/categories/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hondy444.gihub.io/tanzu-community-site/en/categories/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hondy444.gihub.io/tanzu-community-site/pt/categories/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/categories/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/categories/"
                 />
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/tags/css/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hondy444.gihub.io/tanzu-community-site/pt/tags/css/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/pt/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/tags/css/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/tags/css/"
                 />
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/tags/featured/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/tags/featured/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://hondy444.gihub.io/tanzu-community-site/pt/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/tags/html/"
-                />
-  </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/tags/markdown/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hondy444.gihub.io/tanzu-community-site/pt/tags/markdown/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/pt/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/tags/markdown/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/tags/html/"
                 />
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/post/markdown-syntax/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hondy444.gihub.io/tanzu-community-site/pt/post/markdown-syntax/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/pt/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/post/markdown-syntax/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/tags/markdown/"
                 />
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/post/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hondy444.gihub.io/tanzu-community-site/pt/post/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/pt/post/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/post/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/post/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/series/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/post/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/pt/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/post/"
+                />
+  </url><url>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hondy444.gihub.io/tanzu-community-site/en/series/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hondy444.gihub.io/tanzu-community-site/pt/series/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/pt/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/series/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/series/"
                 />
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/categories/syntax/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/tags/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hondy444.gihub.io/tanzu-community-site/en/tags/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hondy444.gihub.io/tanzu-community-site/pt/tags/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/tags/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/tags/"
                 />
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/tags/themes/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/categories/themes/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/series/themes-guide/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/tags/privacy/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/post/rich-content/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/tags/shortcodes/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/post/placeholder-text/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/tags/text/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/post/math-typesetting/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/tags/emoji/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/post/emoji-support/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/about/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hondy444.gihub.io/tanzu-community-site/pt/about/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/pt/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/about/"
+                href="https://hondy444.gihub.io/tanzu-community-site/docs/about/"
                 />
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/tags/index/</loc>
+    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/tags/index/</loc>
   </url>
 </urlset>
