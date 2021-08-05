@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/en/categories/</loc>
+    <loc>https://hondy444.gihub.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/docs/categories/"
+                href="https://hondy444.gihub.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hondy444.gihub.io/tanzu-community-site/docs/pt/categories/"
+                href="https://hondy444.gihub.io/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hondy444.gihub.io/tanzu-community-site/docs/en/categories/"
+                href="https://hondy444.gihub.io/en/categories/"
                 />
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/en/</loc>
+    <loc>https://hondy444.gihub.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/docs/"
+                href="https://hondy444.gihub.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hondy444.gihub.io/tanzu-community-site/docs/pt/"
+                href="https://hondy444.gihub.io/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hondy444.gihub.io/tanzu-community-site/docs/en/"
+                href="https://hondy444.gihub.io/en/"
                 />
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/en/series/</loc>
+    <loc>https://hondy444.gihub.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/docs/series/"
+                href="https://hondy444.gihub.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hondy444.gihub.io/tanzu-community-site/docs/pt/series/"
+                href="https://hondy444.gihub.io/pt/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hondy444.gihub.io/tanzu-community-site/docs/en/series/"
+                href="https://hondy444.gihub.io/en/series/"
                 />
   </url><url>
-    <loc>https://hondy444.gihub.io/tanzu-community-site/docs/en/tags/</loc>
+    <loc>https://hondy444.gihub.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/docs/tags/"
+                href="https://hondy444.gihub.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://hondy444.gihub.io/tanzu-community-site/docs/pt/tags/"
+                href="https://hondy444.gihub.io/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hondy444.gihub.io/tanzu-community-site/docs/en/tags/"
+                href="https://hondy444.gihub.io/en/tags/"
                 />
   </url>
 </urlset>
