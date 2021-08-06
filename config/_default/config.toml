@@ -9,7 +9,7 @@ theme = "hugo-clarity"
 disqusShortname = ""
 
 DefaultContentLanguage = "en"
-publishDir = "docs"
+#publishDir = "docs"
 # [languages]
 # config/_default/languages.toml
 
