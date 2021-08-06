@@ -1,0 +1,5 @@
+baseURL = 'https://hondy444.gihub.io/tanzu-community-site'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+publishDir = "docs"
+theme = 'hugo-clarity'
