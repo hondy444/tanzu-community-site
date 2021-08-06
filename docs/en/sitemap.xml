@@ -9,11 +9,6 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="https://hondy444.gihub.io/tanzu-community-site/pt/"
                 />
@@ -25,11 +20,6 @@
   </url><url>
     <loc>https://hondy444.gihub.io/tanzu-community-site/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/ja/categories/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -113,11 +103,6 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/ja/series/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pt"
                 href="https://hondy444.gihub.io/tanzu-community-site/pt/series/"
                 />
@@ -132,11 +117,6 @@
   </url><url>
     <loc>https://hondy444.gihub.io/tanzu-community-site/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hondy444.gihub.io/tanzu-community-site/ja/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
